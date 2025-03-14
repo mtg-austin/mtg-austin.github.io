@@ -1,0 +1,5 @@
+title: My Awesome Site
+description: A brief description of your site.
+baseurl: ""
+url: "https://username.github.io"  # Replace with your GitHub Pages URL
+theme: jekyll-theme-slate  # You can change this to your preferred Jekyll theme
